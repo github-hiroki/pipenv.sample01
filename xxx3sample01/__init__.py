@@ -1,7 +1,7 @@
 # Copyright 2020- Hiroki.H.
 
 __all__ = [
-    XSample01,
+    "XSample01",
 ]
 
 
